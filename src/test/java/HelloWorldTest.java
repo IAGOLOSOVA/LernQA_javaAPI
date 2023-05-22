@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 
 public class HelloWorldTest {
     @Test
-    public void testHelloWorld () {
-        System.out.println("Hello World");
+    public void testHello () {
+        System.out.println("Hello from Ira");
     }
 }
